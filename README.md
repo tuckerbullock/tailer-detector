@@ -1,4 +1,4 @@
-# Sports-Betting-Project
+# Tailer Detector - Sports Betting Project
 
 Detects groups of users who tail (copy) sharp bettors and simulates actions (alerts / prop pulls / limits). Designed as a demo project with simulated betting logs to avoid needing access to proprietary sportsbook user databases.
 

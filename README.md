@@ -17,7 +17,7 @@ So it is clear this is what apps want to do, but it seems they can’t quite fin
 
   Is there a way to more effectively identify successful users and groups that tail sharps, in order to more effectively apply limits to successful users?
 
-Well, why is this imporant?
+*Well, why is this imporant?*
 
   This is an important topic for especially some of the biggest companies, like:
 

@@ -1,7 +1,8 @@
 # Sports Betting Tailer Detector
 
-***Overview***
-This project simulates how sharp bettors and tailing users interact with sports betting props — and builds a simple detection system that identifies **groups of tailers** who follow sharp picks too consistently.  
+***Overview:***
+
+  This project simulates how sharp bettors and tailing users interact with sports betting props — and builds a simple detection system that identifies **groups of tailers** who follow sharp picks too consistently.  
 The simulation is designed to mimic real-world betting app behavior and can be extended into more advanced analysis later.
 
 *First, let's start with the:*

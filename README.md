@@ -56,14 +56,12 @@ So it is clear this is what apps want to do, but it seems they can’t quite fin
 
 
 ## File Structure
-tailer-detector/
-│
-├─ tailer_detector.py # main simulation + detection script
-├─ flagged_tailers.csv # saved tailer results
-├─ sharp_summary.csv # summary of sharp activity
-├─ top_tailers_chart.png # visualization of top tailers
-├─ most_tailed_sharps_chart.png # visualization of most tailed sharps
-└─ README.md # this file
+
+tailer_detector.py # main simulation + detection script
+flagged_tailers.csv # saved tailer results
+sharp_summary.csv # summary of sharp activity
+top_tailers_chart.png # visualization of top tailers
+most_tailed_sharps_chart.png # visualization of most tailed sharps
 
 
 ## How It Works
